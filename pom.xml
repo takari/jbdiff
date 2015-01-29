@@ -7,6 +7,7 @@
   </parent>
   <artifactId>jbdiff</artifactId>
   <version>1.0.1-SNAPSHOT</version>
+  <packaging>takari-jar</packaging>
   <build>
     <plugins>
       <plugin>
