@@ -6,7 +6,7 @@
     <version>15</version>
   </parent>
   <artifactId>jbdiff</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
   <build>
     <plugins>
       <plugin>
@@ -16,9 +16,5 @@
         <extensions>true</extensions>
       </plugin>
    </plugins>
-  </build>  
-
-  <scm>
-    <tag>jbdiff-1.0.0</tag>
-  </scm>
+  </build>
 </project>
